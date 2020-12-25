@@ -1,5 +1,7 @@
 # WEB API
 
+![](https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif)
+
 Criamos uma web-api básica com 3 rotas, sem utilizar nenhuma framework.
 
 ## Routes
